@@ -1,0 +1,1 @@
+g++  -O3 -DNDEBUG  -rdynamic CMakeFiles/hello.dir/home/omq/Documents/hello/src/hello.cc.o  -o hello 
