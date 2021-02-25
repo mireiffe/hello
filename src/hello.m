@@ -1,1 +1,2 @@
-printf("Hello, world!!");
+s = "Hello, world!!"
+printf(s)
