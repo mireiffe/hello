@@ -1,3 +1,0 @@
-/home/omq/Documents/hello/build_cc/CMakeFiles/rebuild_cache.dir
-/home/omq/Documents/hello/build_cc/CMakeFiles/edit_cache.dir
-/home/omq/Documents/hello/build_cc/CMakeFiles/hello.dir
