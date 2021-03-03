@@ -1,2 +1,2 @@
 s = "Hello, world!!"
-printf(s)
+fprintf('%s\n', s)
